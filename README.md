@@ -25,22 +25,19 @@ The WhatsApp Chat Analyzer is an interactive and user-friendly tool that transfo
 2. The tool analyzes your chat history, extracting valuable insights.
 3. View detailed graphs, statistics, and word clouds on the web interface.
    
-## Getting Started:
-1. Clone this repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
-
-2. Install dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-
-3. Run the Streamlit app:
-
-bash
-Copy code
-streamlit run app.py
-4. Upload your chat file and explore the magic! 🎉
+## Installation
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/anamikalodhi01/Applicant-Tracking-System.git
+    cd Applicant-Tracking-System
+    ```
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+ 
+3. **Run the application**:
+    ```bash
+    streamlit run app.py
+    ```
+    
+4. Upload your chat file and explore the magic! 
