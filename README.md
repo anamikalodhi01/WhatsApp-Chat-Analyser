@@ -28,8 +28,8 @@ The WhatsApp Chat Analyzer is an interactive and user-friendly tool that transfo
 ## Installation
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/anamikalodhi01/Applicant-Tracking-System.git
-    cd Applicant-Tracking-System
+    git clone https://github.com/anamikalodhi01/WhatsApp-Chat-Analyser.git
+    cd WhatsApp-Chat-Analyser
     ```
 2. **Install Dependencies**
    ```bash
