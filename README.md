@@ -8,7 +8,7 @@ The WhatsApp Chat Analyzer is an interactive and user-friendly tool that transfo
 1. **Daily/Monthly Activity Analysis:** Find out when you're most active.
 2. **Top Participants:** Discover who's talking the most in group chats.
 3. **Emoji Usage Insights:** See which emojis are used the most.
-4. **☁Word Cloud Generation:** Visualize frequently used words in conversations.
+4. **Word Cloud Generation:** Visualize frequently used words in conversations.
 5. **Graphical Representations:** Beautiful plots to summarize chat data.
    
 ## Tech Stack:
