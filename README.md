@@ -1,15 +1,15 @@
-# 📊 WhatsApp Chat Analyzer
+#  WhatsApp Chat Analyzer
 ### Unlock the secrets of your WhatsApp conversations with powerful data analysis!
 
 ## Overview
 The WhatsApp Chat Analyzer is an interactive and user-friendly tool that transforms your chat data into insightful visualizations and statistics. Whether you're curious about your most active chats, top emojis, or busiest chatting hours, this project has you covered!
 
 ## Key Features:
-1. **📅 Daily/Monthly Activity Analysis:** Find out when you're most active.
-2. **👥 Top Participants:** Discover who's talking the most in group chats.
-3. **😊 Emoji Usage Insights:** See which emojis are used the most.
-4. **☁️ Word Cloud Generation:** Visualize frequently used words in conversations.
-5. **📊 Graphical Representations:** Beautiful plots to summarize chat data.
+1. **Daily/Monthly Activity Analysis:** Find out when you're most active.
+2. **Top Participants:** Discover who's talking the most in group chats.
+3. **Emoji Usage Insights:** See which emojis are used the most.
+4. **☁Word Cloud Generation:** Visualize frequently used words in conversations.
+5. **Graphical Representations:** Beautiful plots to summarize chat data.
    
 ## Tech Stack:
 1. **Streamlit: A sleek and simple web interface to explore chat analysis results.**
